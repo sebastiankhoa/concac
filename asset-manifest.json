@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/concac/static/css/main.0fc7b4ea.chunk.css",
+    "main.js": "/concac/static/js/main.09df84d2.chunk.js",
+    "main.js.map": "/concac/static/js/main.09df84d2.chunk.js.map",
+    "runtime-main.js": "/concac/static/js/runtime-main.c77f2851.js",
+    "runtime-main.js.map": "/concac/static/js/runtime-main.c77f2851.js.map",
+    "static/css/2.31461e4f.chunk.css": "/concac/static/css/2.31461e4f.chunk.css",
+    "static/js/2.dba7a7b0.chunk.js": "/concac/static/js/2.dba7a7b0.chunk.js",
+    "static/js/2.dba7a7b0.chunk.js.map": "/concac/static/js/2.dba7a7b0.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/concac/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/concac/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/concac/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/concac/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0fc7b4ea.chunk.css.map": "/concac/static/css/main.0fc7b4ea.chunk.css.map",
+    "static/js/2.dba7a7b0.chunk.js.LICENSE.txt": "/concac/static/js/2.dba7a7b0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/concac/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c77f2851.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.dba7a7b0.chunk.js",
+    "static/css/main.0fc7b4ea.chunk.css",
+    "static/js/main.09df84d2.chunk.js"
+  ]
+}
